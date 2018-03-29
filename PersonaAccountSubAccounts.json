@@ -1,0 +1,441 @@
+[
+  null,
+  {
+    "id": "1",
+    "positionType": "Private Security",
+    "size": "low",
+    "type": "pre-tax"
+  },
+  {
+    "id": "2",
+    "positionType": "Private Security",
+    "size": "low",
+    "type": "roth"
+  },
+  {
+    "id": "3",
+    "positionType": "Private Security",
+    "size": "low",
+    "type": "post-tax"
+  },
+  {
+    "id": "4",
+    "positionType": "Private Security",
+    "size": "low",
+    "type": "taxable"
+  },
+  {
+    "id": "5",
+    "positionType": "Private Security",
+    "size": "medium",
+    "type": "pre-tax"
+  },
+  {
+    "id": "6",
+    "positionType": "Private Security",
+    "size": "medium",
+    "type": "roth"
+  },
+  {
+    "id": "7",
+    "positionType": "Private Security",
+    "size": "medium",
+    "type": "post-tax"
+  },
+  {
+    "id": "8",
+    "positionType": "Private Security",
+    "size": "medium",
+    "type": "taxable"
+  },
+  {
+    "id": "9",
+    "positionType": "Private Security",
+    "size": "high",
+    "type": "pre-tax"
+  },
+  {
+    "id": "10",
+    "positionType": "Private Security",
+    "size": "high",
+    "type": "roth"
+  },
+  {
+    "id": "11",
+    "positionType": "Private Security",
+    "size": "high",
+    "type": "post-tax"
+  },
+  {
+    "id": "12",
+    "positionType": "Private Security",
+    "size": "high",
+    "type": "taxable"
+  },
+  {
+    "id": "13",
+    "positionType": "Normal",
+    "size": "low",
+    "type": "pre-tax"
+  },
+  {
+    "id": "14",
+    "positionType": "Normal",
+    "size": "low",
+    "type": "roth"
+  },
+  {
+    "id": "15",
+    "positionType": "Normal",
+    "size": "low",
+    "type": "post-tax"
+  },
+  {
+    "id": "16",
+    "positionType": "Normal",
+    "size": "low",
+    "type": "taxable"
+  },
+  {
+    "id": "17",
+    "positionType": "Normal",
+    "size": "medium",
+    "type": "pre-tax"
+  },
+  {
+    "id": "18",
+    "positionType": "Normal",
+    "size": "medium",
+    "type": "roth"
+  },
+  {
+    "id": "19",
+    "positionType": "Normal",
+    "size": "medium",
+    "type": "post-tax"
+  },
+  {
+    "id": "20",
+    "positionType": "Normal",
+    "size": "medium",
+    "type": "taxable"
+  },
+  {
+    "id": "21",
+    "positionType": "Normal",
+    "size": "high",
+    "type": "pre-tax"
+  },
+  {
+    "id": "22",
+    "positionType": "Normal",
+    "size": "high",
+    "type": "roth"
+  },
+  {
+    "id": "23",
+    "positionType": "Normal",
+    "size": "high",
+    "type": "post-tax"
+  },
+  {
+    "id": "24",
+    "positionType": "Normal",
+    "size": "high",
+    "type": "taxable"
+  },
+  {
+    "id": "25",
+    "positionType": "Restricted",
+    "size": "low",
+    "type": "pre-tax"
+  },
+  {
+    "id": "26",
+    "positionType": "Restricted",
+    "size": "low",
+    "type": "roth"
+  },
+  {
+    "id": "27",
+    "positionType": "Restricted",
+    "size": "low",
+    "type": "post-tax"
+  },
+  {
+    "id": "28",
+    "positionType": "Restricted",
+    "size": "low",
+    "type": "taxable"
+  },
+  {
+    "id": "29",
+    "positionType": "Restricted",
+    "size": "medium",
+    "type": "pre-tax"
+  },
+  {
+    "id": "30",
+    "positionType": "Restricted",
+    "size": "medium",
+    "type": "roth"
+  },
+  {
+    "id": "31",
+    "positionType": "Restricted",
+    "size": "medium",
+    "type": "post-tax"
+  },
+  {
+    "id": "32",
+    "positionType": "Restricted",
+    "size": "medium",
+    "type": "taxable"
+  },
+  {
+    "id": "33",
+    "positionType": "Restricted",
+    "size": "high",
+    "type": "pre-tax"
+  },
+  {
+    "id": "34",
+    "positionType": "Restricted",
+    "size": "high",
+    "type": "roth"
+  },
+  {
+    "id": "35",
+    "positionType": "Restricted",
+    "size": "high",
+    "type": "post-tax"
+  },
+  {
+    "id": "36",
+    "positionType": "Restricted",
+    "size": "high",
+    "type": "taxable"
+  },
+  {
+    "id": "37",
+    "positionType": "Loan",
+    "size": "low",
+    "type": "pre-tax"
+  },
+  {
+    "id": "38",
+    "positionType": "Loan",
+    "size": "low",
+    "type": "roth"
+  },
+  {
+    "id": "39",
+    "positionType": "Loan",
+    "size": "low",
+    "type": "post-tax"
+  },
+  {
+    "id": "40",
+    "positionType": "Loan",
+    "size": "low",
+    "type": "taxable"
+  },
+  {
+    "id": "41",
+    "positionType": "Loan",
+    "size": "medium",
+    "type": "pre-tax"
+  },
+  {
+    "id": "42",
+    "positionType": "Loan",
+    "size": "medium",
+    "type": "roth"
+  },
+  {
+    "id": "43",
+    "positionType": "Loan",
+    "size": "medium",
+    "type": "post-tax"
+  },
+  {
+    "id": "44",
+    "positionType": "Loan",
+    "size": "medium",
+    "type": "taxable"
+  },
+  {
+    "id": "45",
+    "positionType": "Loan",
+    "size": "high",
+    "type": "pre-tax"
+  },
+  {
+    "id": "46",
+    "positionType": "Loan",
+    "size": "high",
+    "type": "roth"
+  },
+  {
+    "id": "47",
+    "positionType": "Loan",
+    "size": "high",
+    "type": "post-tax"
+  },
+  {
+    "id": "48",
+    "positionType": "Loan",
+    "size": "high",
+    "type": "taxable"
+  },
+  {
+    "id": "49",
+    "positionType": "cash",
+    "size": "low",
+    "type": "pre-tax"
+  },
+  {
+    "id": "50",
+    "positionType": "cash",
+    "size": "low",
+    "type": "roth"
+  },
+  {
+    "id": "51",
+    "positionType": "cash",
+    "size": "low",
+    "type": "post-tax"
+  },
+  {
+    "id": "52",
+    "positionType": "cash",
+    "size": "low",
+    "type": "taxable"
+  },
+  {
+    "id": "53",
+    "positionType": "cash",
+    "size": "medium",
+    "type": "pre-tax"
+  },
+  {
+    "id": "54",
+    "positionType": "cash",
+    "size": "medium",
+    "type": "roth"
+  },
+  {
+    "id": "55",
+    "positionType": "cash",
+    "size": "medium",
+    "type": "post-tax"
+  },
+  {
+    "id": "56",
+    "positionType": "cash",
+    "size": "medium",
+    "type": "taxable"
+  },
+  {
+    "id": "57",
+    "positionType": "cash",
+    "size": "high",
+    "type": "pre-tax"
+  },
+  {
+    "id": "58",
+    "positionType": "cash",
+    "size": "high",
+    "type": "roth"
+  },
+  {
+    "id": "59",
+    "positionType": "cash",
+    "size": "high",
+    "type": "post-tax"
+  },
+  {
+    "id": "60",
+    "positionType": "cash",
+    "size": "high",
+    "type": "taxable"
+  },
+  {
+    "id": "61",
+    "positionType": "company stock",
+    "size": "low",
+    "type": "pre-tax"
+  },
+  {
+    "id": "62",
+    "positionType": "company stock",
+    "size": "low",
+    "type": "roth"
+  },
+  {
+    "id": "63",
+    "positionType": "company stock",
+    "size": "low",
+    "type": "post-tax"
+  },
+  {
+    "id": "64",
+    "positionType": "company stock",
+    "size": "low",
+    "type": "taxable"
+  },
+  {
+    "id": "65",
+    "positionType": "company stock",
+    "size": "medium",
+    "type": "pre-tax"
+  },
+  {
+    "id": "66",
+    "positionType": "company stock",
+    "size": "medium",
+    "type": "roth"
+  },
+  {
+    "id": "67",
+    "positionType": "company stock",
+    "size": "medium",
+    "type": "post-tax"
+  },
+  {
+    "id": "68",
+    "positionType": "company stock",
+    "size": "medium",
+    "type": "taxable"
+  },
+  {
+    "id": "69",
+    "positionType": "company stock",
+    "size": "high",
+    "type": "pre-tax"
+  },
+  {
+    "id": "70",
+    "positionType": "company stock",
+    "size": "high",
+    "type": "roth"
+  },
+  {
+    "id": "71",
+    "positionType": "company stock",
+    "size": "high",
+    "type": "post-tax"
+  },
+  {
+    "id": "72",
+    "positionType": "company stock",
+    "size": "high",
+    "type": "taxable"
+  },
+  {
+    "id": "73",
+    "positionType": "brokerage window",
+    "size": "medium",
+    "type": "pre-tax"
+  }
+]

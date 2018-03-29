@@ -1,0 +1,195 @@
+[
+  null,
+  {
+    "id": "1",
+    "age": "much younger",
+    "sex": "f",
+    "salary": "low"
+  },
+  {
+    "id": "2",
+    "age": "much younger",
+    "sex": "f",
+    "salary": "medium"
+  },
+  {
+    "id": "3",
+    "age": "much younger",
+    "sex": "f",
+    "salary": "high"
+  },
+  {
+    "id": "4",
+    "age": "much younger",
+    "sex": "m",
+    "salary": "low"
+  },
+  {
+    "id": "5",
+    "age": "much younger",
+    "sex": "m",
+    "salary": "medium"
+  },
+  {
+    "id": "6",
+    "age": "much younger",
+    "sex": "m",
+    "salary": "high"
+  },
+  {
+    "id": "7",
+    "age": "younger",
+    "sex": "f",
+    "salary": "low"
+  },
+  {
+    "id": "8",
+    "age": "younger",
+    "sex": "f",
+    "salary": "medium"
+  },
+  {
+    "id": "9",
+    "age": "younger",
+    "sex": "f",
+    "salary": "high"
+  },
+  {
+    "id": "10",
+    "age": "younger",
+    "sex": "m",
+    "salary": "low"
+  },
+  {
+    "id": "11",
+    "age": "younger",
+    "sex": "m",
+    "salary": "medium"
+  },
+  {
+    "id": "12",
+    "age": "younger",
+    "sex": "m",
+    "salary": "high"
+  },
+  {
+    "id": "13",
+    "age": "same",
+    "sex": "f",
+    "salary": "low"
+  },
+  {
+    "id": "14",
+    "age": "same",
+    "sex": "f",
+    "salary": "medium"
+  },
+  {
+    "id": "15",
+    "age": "same",
+    "sex": "f",
+    "salary": "high"
+  },
+  {
+    "id": "16",
+    "age": "same",
+    "sex": "m",
+    "salary": "low"
+  },
+  {
+    "id": "17",
+    "age": "same",
+    "sex": "m",
+    "salary": "medium"
+  },
+  {
+    "id": "18",
+    "age": "same",
+    "sex": "m",
+    "salary": "high"
+  },
+  {
+    "id": "19",
+    "age": "older",
+    "sex": "f",
+    "salary": "low"
+  },
+  {
+    "id": "20",
+    "age": "older",
+    "sex": "f",
+    "salary": "medium"
+  },
+  {
+    "id": "21",
+    "age": "older",
+    "sex": "f",
+    "salary": "high"
+  },
+  {
+    "id": "22",
+    "age": "older",
+    "sex": "m",
+    "salary": "low"
+  },
+  {
+    "id": "23",
+    "age": "older",
+    "sex": "m",
+    "salary": "medium"
+  },
+  {
+    "id": "24",
+    "age": "older",
+    "sex": "m",
+    "salary": "high"
+  },
+  {
+    "id": "25",
+    "age": "much older",
+    "sex": "f",
+    "salary": "low"
+  },
+  {
+    "id": "26",
+    "age": "much older",
+    "sex": "f",
+    "salary": "medium"
+  },
+  {
+    "id": "27",
+    "age": "much older",
+    "sex": "f",
+    "salary": "high"
+  },
+  {
+    "id": "28",
+    "age": "much older",
+    "sex": "m",
+    "salary": "low"
+  },
+  {
+    "id": "29",
+    "age": "much older",
+    "sex": "m",
+    "salary": "medium"
+  },
+  {
+    "id": "30",
+    "age": "much older",
+    "sex": "m",
+    "salary": "high"
+  },
+  {
+    "id": "31",
+    "age": "same",
+    "sex": "m",
+    "salary": "zero"
+  },
+  {
+    "id": "32",
+    "age": "same",
+    "sex": "f",
+    "salary": "zero"
+  }
+]
