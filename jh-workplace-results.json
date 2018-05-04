@@ -1,0 +1,1122 @@
+{
+  "909": {
+    "personaId": 909,
+    "proposedEquityLevelInitial": 0.9019386,
+    "proposedEquityLevelRetirement": 0.3961304,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 34980.6235019,
+    "proposedTargetRetirementIncome": 34857.7131722,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 347023.9607804
+  },
+  "910": {
+    "personaId": 910,
+    "proposedEquityLevelInitial": 0.8916146,
+    "proposedEquityLevelRetirement": 0.37924,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 45533.687776,
+    "proposedTargetRetirementIncome": 35650.8366982,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 617292.2470664
+  },
+  "911": {
+    "personaId": 911,
+    "proposedEquityLevelInitial": 0.8,
+    "proposedEquityLevelRetirement": 0.3521292,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 68079.6482311,
+    "proposedTargetRetirementIncome": 35650.8366982,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 1297422.3336504
+  },
+  "912": {
+    "personaId": 912,
+    "proposedEquityLevelInitial": 0.9036734,
+    "proposedEquityLevelRetirement": 0.3969244,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 66567.3182375,
+    "proposedTargetRetirementIncome": 65636.6225872,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 1003869.1532066
+  },
+  "913": {
+    "personaId": 913,
+    "proposedEquityLevelInitial": 0.9048104,
+    "proposedEquityLevelRetirement": 0.3973457,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 68967.4506423,
+    "proposedTargetRetirementIncome": 69157.6334712,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 1082365.2205928
+  },
+  "914": {
+    "personaId": 914,
+    "proposedEquityLevelInitial": 0.8946202,
+    "proposedEquityLevelRetirement": 0.3853306,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 85607.40901,
+    "proposedTargetRetirementIncome": 72063.9668865,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 1498300.9941346
+  },
+  "915": {
+    "personaId": 915,
+    "proposedEquityLevelInitial": 0.9749805,
+    "proposedEquityLevelRetirement": 0.3997275,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 96455.7068357,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 1591195.9523263
+  },
+  "916": {
+    "personaId": 916,
+    "proposedEquityLevelInitial": 0.9500808,
+    "proposedEquityLevelRetirement": 0.3948999,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 108525.1257842,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 1892550.1669674
+  },
+  "917": {
+    "personaId": 917,
+    "proposedEquityLevelInitial": 0.9176101,
+    "proposedEquityLevelRetirement": 0.387795,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 137465.1720849,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 2552036.2939801
+  },
+  "918": {
+    "personaId": 918,
+    "proposedEquityLevelInitial": 0.9066476,
+    "proposedEquityLevelRetirement": 0.4177537,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 34956.645581,
+    "proposedTargetRetirementIncome": 34956.8536129,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 316344.6150242
+  },
+  "919": {
+    "personaId": 919,
+    "proposedEquityLevelInitial": 0.8932928,
+    "proposedEquityLevelRetirement": 0.4001299,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 43438.5176912,
+    "proposedTargetRetirementIncome": 35650.8366982,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 558612.7375012
+  },
+  "920": {
+    "personaId": 920,
+    "proposedEquityLevelInitial": 0.82213,
+    "proposedEquityLevelRetirement": 0.3736439,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 63451.4050258,
+    "proposedTargetRetirementIncome": 35650.8366982,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 1160689.9953813
+  },
+  "921": {
+    "personaId": 921,
+    "proposedEquityLevelInitial": 0.9066629,
+    "proposedEquityLevelRetirement": 0.4170392,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 65701.4553488,
+    "proposedTargetRetirementIncome": 65441.0108714,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 969476.6152503
+  },
+  "922": {
+    "personaId": 922,
+    "proposedEquityLevelInitial": 0.9094051,
+    "proposedEquityLevelRetirement": 0.4180807,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 69512.5110551,
+    "proposedTargetRetirementIncome": 69157.6334712,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 996079.153619
+  },
+  "923": {
+    "personaId": 923,
+    "proposedEquityLevelInitial": 0.8965891,
+    "proposedEquityLevelRetirement": 0.4071744,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 79945.3016335,
+    "proposedTargetRetirementIncome": 72063.9668865,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 1354834.9187154
+  },
+  "924": {
+    "personaId": 924,
+    "proposedEquityLevelInitial": 0.9837268,
+    "proposedEquityLevelRetirement": 0.4099206,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 94736.0257851,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 1572821.1892966
+  },
+  "925": {
+    "personaId": 925,
+    "proposedEquityLevelInitial": 0.9555517,
+    "proposedEquityLevelRetirement": 0.4047881,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 108056.2558879,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 1909550.1384668
+  },
+  "926": {
+    "personaId": 926,
+    "proposedEquityLevelInitial": 0.9241212,
+    "proposedEquityLevelRetirement": 0.3979674,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 136719.5762403,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 2538725.8595307
+  },
+  "927": {
+    "personaId": 927,
+    "proposedEquityLevelInitial": 0.8821813,
+    "proposedEquityLevelRetirement": 0.3957862,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 28492.5997691,
+    "proposedTargetRetirementIncome": 28352.8472136,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 239770.4536911
+  },
+  "928": {
+    "personaId": 928,
+    "proposedEquityLevelInitial": 0.8773648,
+    "proposedEquityLevelRetirement": 0.3885787,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 33649.0278268,
+    "proposedTargetRetirementIncome": 31000.0787772,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 360771.3504967
+  },
+  "929": {
+    "personaId": 929,
+    "proposedEquityLevelInitial": 0.8198436,
+    "proposedEquityLevelRetirement": 0.3626495,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 48645.7976595,
+    "proposedTargetRetirementIncome": 31000.0787772,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 781578.5155857
+  },
+  "930": {
+    "personaId": 930,
+    "proposedEquityLevelInitial": 0.8910741,
+    "proposedEquityLevelRetirement": 0.3928906,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 53887.6693995,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 527260.5741274
+  },
+  "931": {
+    "personaId": 931,
+    "proposedEquityLevelInitial": 0.8814865,
+    "proposedEquityLevelRetirement": 0.3883513,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 58848.7110542,
+    "proposedTargetRetirementIncome": 58341.1452376,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 720827.6514506
+  },
+  "932": {
+    "personaId": 932,
+    "proposedEquityLevelInitial": 0.8810817,
+    "proposedEquityLevelRetirement": 0.3950215,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 61921.298109,
+    "proposedTargetRetirementIncome": 61373.9661134,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 939063.3555221
+  },
+  "933": {
+    "personaId": 933,
+    "proposedEquityLevelInitial": 0.981,
+    "proposedEquityLevelRetirement": 0.4175775,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 62974.0985234,
+    "proposedTargetRetirementIncome": 129178.2214581,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 738099.6638936
+  },
+  "934": {
+    "personaId": 934,
+    "proposedEquityLevelInitial": 0.981,
+    "proposedEquityLevelRetirement": 0.4101144,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 70775.833479,
+    "proposedTargetRetirementIncome": 129178.2214581,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 990557.3467472
+  },
+  "935": {
+    "personaId": 935,
+    "proposedEquityLevelInitial": 0.9396293,
+    "proposedEquityLevelRetirement": 0.3988201,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 88045.3275324,
+    "proposedTargetRetirementIncome": 129178.2214581,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 1417839.8494016
+  },
+  "936": {
+    "personaId": 936,
+    "proposedEquityLevelInitial": 0.887442,
+    "proposedEquityLevelRetirement": 0.4146187,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 28311.963673,
+    "proposedTargetRetirementIncome": 28096.6635138,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 243629.062378
+  },
+  "937": {
+    "personaId": 937,
+    "proposedEquityLevelInitial": 0.8840971,
+    "proposedEquityLevelRetirement": 0.4093483,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 32998.3166017,
+    "proposedTargetRetirementIncome": 31000.0787772,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 362033.5035644
+  },
+  "938": {
+    "personaId": 938,
+    "proposedEquityLevelInitial": 0.8348933,
+    "proposedEquityLevelRetirement": 0.3835239,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 46517.9397611,
+    "proposedTargetRetirementIncome": 31000.0787772,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 793301.2737672
+  },
+  "939": {
+    "personaId": 939,
+    "proposedEquityLevelInitial": 0.8986142,
+    "proposedEquityLevelRetirement": 0.4026519,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 52637.5866506,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 532438.6435205
+  },
+  "940": {
+    "personaId": 940,
+    "proposedEquityLevelInitial": 0.8866521,
+    "proposedEquityLevelRetirement": 0.3969496,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 57975.6535396,
+    "proposedTargetRetirementIncome": 57835.6750916,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 721825.8358026
+  },
+  "941": {
+    "personaId": 941,
+    "proposedEquityLevelInitial": 0.8875832,
+    "proposedEquityLevelRetirement": 0.4147214,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 60905.330242,
+    "proposedTargetRetirementIncome": 60868.4959674,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 971677.7134215
+  },
+  "942": {
+    "personaId": 942,
+    "proposedEquityLevelInitial": 0.9865,
+    "proposedEquityLevelRetirement": 0.4271456,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 61925.2614967,
+    "proposedTargetRetirementIncome": 129178.2214581,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 750157.6981938
+  },
+  "943": {
+    "personaId": 943,
+    "proposedEquityLevelInitial": 0.9865,
+    "proposedEquityLevelRetirement": 0.420719,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 69161.3622656,
+    "proposedTargetRetirementIncome": 129178.2214581,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 966566.9806896
+  },
+  "944": {
+    "personaId": 944,
+    "proposedEquityLevelInitial": 0.9514377,
+    "proposedEquityLevelRetirement": 0.4090273,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 85017.4501051,
+    "proposedTargetRetirementIncome": 129178.2214581,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 1443860.9316015
+  },
+  "945": {
+    "personaId": 945,
+    "proposedEquityLevelInitial": 0.6820348,
+    "proposedEquityLevelRetirement": 0.3996983,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 24953.4857334,
+    "proposedTargetRetirementIncome": 26672.8125,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 115510.4779346
+  },
+  "946": {
+    "personaId": 946,
+    "proposedEquityLevelInitial": 0.672878,
+    "proposedEquityLevelRetirement": 0.3979825,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 28579.5675454,
+    "proposedTargetRetirementIncome": 28297.8125,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 238920.7555913
+  },
+  "947": {
+    "personaId": 947,
+    "proposedEquityLevelInitial": 0.6459221,
+    "proposedEquityLevelRetirement": 0.3750218,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 39908.1123879,
+    "proposedTargetRetirementIncome": 29597.8125,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 519690.4169098
+  },
+  "948": {
+    "personaId": 948,
+    "proposedEquityLevelInitial": 0.7039704,
+    "proposedEquityLevelRetirement": 0.4130605,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 39932.0719393,
+    "proposedTargetRetirementIncome": 54564.0625,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 191633.2752645
+  },
+  "949": {
+    "personaId": 949,
+    "proposedEquityLevelInitial": 0.6882134,
+    "proposedEquityLevelRetirement": 0.4002261,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 47155.5568283,
+    "proposedTargetRetirementIncome": 54564.0625,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 353221.675669
+  },
+  "950": {
+    "personaId": 950,
+    "proposedEquityLevelInitial": 0.6735597,
+    "proposedEquityLevelRetirement": 0.3937521,
+    "proposedRetirementAge": 66,
+    "proposedRetirementIncome": 55006.5997206,
+    "proposedTargetRetirementIncome": 54724.375,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 629547.9183669
+  },
+  "951": {
+    "personaId": 951,
+    "proposedEquityLevelInitial": 0.7866078,
+    "proposedEquityLevelRetirement": 0.4345666,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49718.5306263,
+    "proposedTargetRetirementIncome": 119004.1625,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 332615.5234009
+  },
+  "952": {
+    "personaId": 952,
+    "proposedEquityLevelInitial": 0.7833985,
+    "proposedEquityLevelRetirement": 0.4236549,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 56131.9094604,
+    "proposedTargetRetirementIncome": 119004.1625,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 488899.085637
+  },
+  "953": {
+    "personaId": 953,
+    "proposedEquityLevelInitial": 0.7518533,
+    "proposedEquityLevelRetirement": 0.411963,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 65437.529093,
+    "proposedTargetRetirementIncome": 119004.1625,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 816888.7231108
+  },
+  "954": {
+    "personaId": 954,
+    "proposedEquityLevelInitial": 0.7041325,
+    "proposedEquityLevelRetirement": 0.4100172,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 24624.5117641,
+    "proposedTargetRetirementIncome": 26672.8125,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 113295.4280122
+  },
+  "955": {
+    "personaId": 955,
+    "proposedEquityLevelInitial": 0.6918436,
+    "proposedEquityLevelRetirement": 0.4157138,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 27750.6241936,
+    "proposedTargetRetirementIncome": 27566.5625,
+    "proposedTotalContributions": 2800,
+    "proposedWealthAtRetirement": 231983.7442783
+  },
+  "956": {
+    "personaId": 956,
+    "proposedEquityLevelInitial": 0.6696918,
+    "proposedEquityLevelRetirement": 0.3955492,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 38495.7383505,
+    "proposedTargetRetirementIncome": 29597.8125,
+    "proposedTotalContributions": 2400,
+    "proposedWealthAtRetirement": 492999.6428234
+  },
+  "957": {
+    "personaId": 957,
+    "proposedEquityLevelInitial": 0.7265849,
+    "proposedEquityLevelRetirement": 0.4235973,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 39565.6655266,
+    "proposedTargetRetirementIncome": 54564.0625,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 191859.4942498
+  },
+  "958": {
+    "personaId": 958,
+    "proposedEquityLevelInitial": 0.7103151,
+    "proposedEquityLevelRetirement": 0.4102324,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 46094.8639099,
+    "proposedTargetRetirementIncome": 54564.0625,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 342887.5769407
+  },
+  "959": {
+    "personaId": 959,
+    "proposedEquityLevelInitial": 0.6944796,
+    "proposedEquityLevelRetirement": 0.3984752,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 56402.9641309,
+    "proposedTargetRetirementIncome": 56006.875,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 639182.0202204
+  },
+  "960": {
+    "personaId": 960,
+    "proposedEquityLevelInitial": 0.807553,
+    "proposedEquityLevelRetirement": 0.4448301,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49050.4432378,
+    "proposedTargetRetirementIncome": 119004.1625,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 331472.9845863
+  },
+  "961": {
+    "personaId": 961,
+    "proposedEquityLevelInitial": 0.8042727,
+    "proposedEquityLevelRetirement": 0.4336771,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 54810.2040717,
+    "proposedTargetRetirementIncome": 119004.1625,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 476092.4960339
+  },
+  "962": {
+    "personaId": 962,
+    "proposedEquityLevelInitial": 0.7798923,
+    "proposedEquityLevelRetirement": 0.4218063,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 63566.909837,
+    "proposedTargetRetirementIncome": 119004.1625,
+    "proposedTotalContributions": 14000,
+    "proposedWealthAtRetirement": 784554.6269259
+  },
+  "963": {
+    "personaId": 963,
+    "proposedEquityLevelInitial": 0.887387,
+    "proposedEquityLevelRetirement": 0.3972836,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 57180.7998569,
+    "proposedTargetRetirementIncome": 57330.2049456,
+    "proposedTotalContributions": 3600,
+    "proposedWealthAtRetirement": 699834.3547552
+  },
+  "964": {
+    "personaId": 964,
+    "proposedEquityLevelInitial": 0.887387,
+    "proposedEquityLevelRetirement": 0.3972836,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 57180.7998569,
+    "proposedTargetRetirementIncome": 57330.2049456,
+    "proposedTotalContributions": 3600,
+    "proposedWealthAtRetirement": 699834.3547552
+  },
+  "965": {
+    "personaId": 965,
+    "proposedEquityLevelInitial": 0.8876498,
+    "proposedEquityLevelRetirement": 0.4147671,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 55609.3209634,
+    "proposedTargetRetirementIncome": 55515.2419654,
+    "proposedTotalContributions": 3600,
+    "proposedWealthAtRetirement": 602184.3901742
+  },
+  "966": {
+    "personaId": 966,
+    "proposedEquityLevelInitial": 0.8986142,
+    "proposedEquityLevelRetirement": 0.4026519,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 52637.5866506,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 532438.6435205
+  },
+  "967": {
+    "personaId": 967,
+    "proposedEquityLevelInitial": 0.8946946,
+    "proposedEquityLevelRetirement": 0.4007226,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 54242.9710783,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 13500,
+    "proposedWealthAtRetirement": 582146.2231477
+  },
+  "968": {
+    "personaId": 968,
+    "proposedEquityLevelInitial": 0.9865,
+    "proposedEquityLevelRetirement": 0.438137,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 67224.8776991,
+    "proposedTargetRetirementIncome": 258352.7107044,
+    "proposedTotalContributions": 11000,
+    "proposedWealthAtRetirement": 924355.9184646
+  },
+  "969": {
+    "personaId": 969,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 32582.1895568,
+    "proposedTargetRetirementIncome": 67102.6277677,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 50622.016299
+  },
+  "970": {
+    "personaId": 970,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 32582.18956,
+    "proposedTargetRetirementIncome": 67102.62777,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 50622.0163
+  },
+  "971": {
+    "personaId": 971,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 32582.1895568,
+    "proposedTargetRetirementIncome": 67102.6277677,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 50622.016299
+  },
+  "972": {
+    "personaId": 972,
+    "proposedEquityLevelInitial": 0.9068231,
+    "proposedEquityLevelRetirement": 0.4068666,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49350.6341876,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433855.4817377
+  },
+  "973": {
+    "personaId": 973,
+    "proposedEquityLevelInitial": 0.9068231,
+    "proposedEquityLevelRetirement": 0.4068666,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49350.6341876,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433855.4817377
+  },
+  "974": {
+    "personaId": 974,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 32582.1895568,
+    "proposedTargetRetirementIncome": 67102.6277677,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 50622.016299
+  },
+  "975": {
+    "personaId": 975,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 32582.1895568,
+    "proposedTargetRetirementIncome": 67102.6277677,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 50622.016299
+  },
+  "976": {
+    "personaId": 976,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 32582.18956,
+    "proposedTargetRetirementIncome": 67102.62777,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 50622.0163
+  },
+  "977": {
+    "personaId": 977,
+    "proposedEquityLevelInitial": 0.8955988,
+    "proposedEquityLevelRetirement": 0.4011626,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 53957.9308998,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 1800,
+    "proposedWealthAtRetirement": 574762.2622299
+  },
+  "978": {
+    "personaId": 978,
+    "proposedEquityLevelInitial": 0.8955988,
+    "proposedEquityLevelRetirement": 0.4011626,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 53957.9308998,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 1800,
+    "proposedWealthAtRetirement": 574762.2622299
+  },
+  "979": {
+    "personaId": 979,
+    "proposedEquityLevelInitial": 0.8972237,
+    "proposedEquityLevelRetirement": 0.401961,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 56036.7181544,
+    "proposedTargetRetirementIncome": 59989.188526,
+    "proposedTotalContributions": 1800,
+    "proposedWealthAtRetirement": 634180.7140806
+  },
+  "980": {
+    "personaId": 980,
+    "proposedEquityLevelInitial": 0.8972237,
+    "proposedEquityLevelRetirement": 0.401961,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 56036.7181544,
+    "proposedTargetRetirementIncome": 59989.188526,
+    "proposedTotalContributions": 1800,
+    "proposedWealthAtRetirement": 634180.7140806
+  },
+  "981": {
+    "personaId": 981,
+    "proposedEquityLevelInitial": 0.8866521,
+    "proposedEquityLevelRetirement": 0.3969496,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 57975.6535396,
+    "proposedTargetRetirementIncome": 57835.6750916,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 721825.8358026
+  },
+  "982": {
+    "personaId": 982,
+    "proposedEquityLevelInitial": 0.8967948,
+    "proposedEquityLevelRetirement": 0.4017493,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 55713.5019746,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 589509.2238433
+  },
+  "983": {
+    "personaId": 983,
+    "proposedEquityLevelInitial": 0.9236985,
+    "proposedEquityLevelRetirement": 0.3978744,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 133378.819877,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 26000,
+    "proposedWealthAtRetirement": 2733677.4611498
+  },
+  "985": {
+    "personaId": 985,
+    "proposedEquityLevelInitial": 0.8865468,
+    "proposedEquityLevelRetirement": 0.396902,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 61170.7311373,
+    "proposedTargetRetirementIncome": 60813.5371593,
+    "proposedTotalContributions": 7200,
+    "proposedWealthAtRetirement": 767836.4105826
+  },
+  "986": {
+    "personaId": 986,
+    "proposedEquityLevelInitial": 0.8932406,
+    "proposedEquityLevelRetirement": 0.4000215,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 57333.214666,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 6750,
+    "proposedWealthAtRetirement": 638444.9629861
+  },
+  "987": {
+    "personaId": 987,
+    "proposedEquityLevelInitial": 0.8908008,
+    "proposedEquityLevelRetirement": 0.3988637,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 58014.2007382,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 6750,
+    "proposedWealthAtRetirement": 665368.5802021
+  },
+  "989": {
+    "personaId": 989,
+    "proposedEquityLevelInitial": 0.8821975,
+    "proposedEquityLevelRetirement": 0.4091183,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 72238.0838848,
+    "proposedTargetRetirementIncome": 68439.9288354,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 1244660.8786684
+  },
+  "990": {
+    "personaId": 990,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 38708.9650107,
+    "proposedTargetRetirementIncome": 68439.9288354,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 206341.8904832
+  },
+  "991": {
+    "personaId": 991,
+    "proposedEquityLevelInitial": 0.8967948,
+    "proposedEquityLevelRetirement": 0.4017493,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 55713.5019746,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 589509.2238433
+  },
+  "992": {
+    "personaId": 992,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 38708.96501,
+    "proposedTargetRetirementIncome": 68439.92884,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 206341.8905
+  },
+  "993": {
+    "personaId": 993,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 30576,
+    "proposedTargetRetirementIncome": 70568.2241868,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 0
+  },
+  "994": {
+    "personaId": 994,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 38708.9650107,
+    "proposedTargetRetirementIncome": 68439.9288354,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 206341.8904832
+  },
+  "995": {
+    "personaId": 995,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 38708.9650107,
+    "proposedTargetRetirementIncome": 68439.9288354,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 206341.8904832
+  },
+  "996": {
+    "personaId": 996,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 38708.9650107,
+    "proposedTargetRetirementIncome": 68439.9288354,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 206341.8904832
+  },
+  "997": {
+    "personaId": 997,
+    "proposedEquityLevelInitial": 0.8967948,
+    "proposedEquityLevelRetirement": 0.4017493,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 55713.5019746,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 589509.2238433
+  },
+  "998": {
+    "personaId": 998,
+    "proposedEquityLevelInitial": 0.9236985,
+    "proposedEquityLevelRetirement": 0.3978744,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 133378.819877,
+    "proposedTargetRetirementIncome": 148369.3106607,
+    "proposedTotalContributions": 26000,
+    "proposedWealthAtRetirement": 2733677.4611498
+  },
+  "999": {
+    "personaId": 999,
+    "proposedEquityLevelInitial": 0.8967948,
+    "proposedEquityLevelRetirement": 0.4017493,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 55713.5019746,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 589509.2238433
+  },
+  "1000": {
+    "personaId": 1000,
+    "proposedEquityLevelInitial": 0.8967948,
+    "proposedEquityLevelRetirement": 0.4017493,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 55713.5019746,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 589509.2238433
+  },
+  "1001": {
+    "personaId": 1001,
+    "proposedEquityLevelInitial": 0.8880702,
+    "proposedEquityLevelRetirement": 0.397596,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 60527.70577,
+    "proposedTargetRetirementIncome": 60458.8212674,
+    "proposedTotalContributions": 9000,
+    "proposedWealthAtRetirement": 663574.7237349
+  },
+  "1002": {
+    "personaId": 1002,
+    "proposedEquityLevelInitial": 0.8884781,
+    "proposedEquityLevelRetirement": 0.4153279,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 60111.5029027,
+    "proposedTargetRetirementIncome": 59926.7474295,
+    "proposedTotalContributions": 9000,
+    "proposedWealthAtRetirement": 830758.9491421
+  },
+  "1003": {
+    "personaId": 1003,
+    "proposedEquityLevelInitial": 0.8883495,
+    "proposedEquityLevelRetirement": 0.4152418,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 60515.0865065,
+    "proposedTargetRetirementIncome": 60281.4633215,
+    "proposedTotalContributions": 11700,
+    "proposedWealthAtRetirement": 842077.2435562
+  },
+  "1004": {
+    "personaId": 1004,
+    "proposedEquityLevelInitial": 0.8885637,
+    "proposedEquityLevelRetirement": 0.415385,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 59250.7871413,
+    "proposedTargetRetirementIncome": 59217.3156457,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 806600.8179474
+  },
+  "1005": {
+    "personaId": 1005,
+    "proposedEquityLevelInitial": 0.8883005,
+    "proposedEquityLevelRetirement": 0.415209,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 60621.068466,
+    "proposedTargetRetirementIncome": 60458.8212674,
+    "proposedTotalContributions": 9000,
+    "proposedWealthAtRetirement": 787356.8425174
+  },
+  "1006": {
+    "personaId": 1006,
+    "proposedEquityLevelInitial": 0.8886123,
+    "proposedEquityLevelRetirement": 0.4154173,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 61053.7290246,
+    "proposedTargetRetirementIncome": 60636.1792134,
+    "proposedTotalContributions": 11700,
+    "proposedWealthAtRetirement": 767091.9541181
+  },
+  "1007": {
+    "personaId": 1007,
+    "proposedEquityLevelInitial": 0.9068231,
+    "proposedEquityLevelRetirement": 0.4068666,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49350.6341876,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433855.4817377
+  },
+  "1008": {
+    "personaId": 1008,
+    "proposedEquityLevelInitial": 0.9054374,
+    "proposedEquityLevelRetirement": 0.4061396,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49591.5898058,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433819.968241
+  },
+  "1009": {
+    "personaId": 1009,
+    "proposedEquityLevelInitial": 0.9048075,
+    "proposedEquityLevelRetirement": 0.4058112,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49933.200861,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433603.3549853
+  },
+  "1010": {
+    "personaId": 1010,
+    "proposedEquityLevelInitial": 0.9068231,
+    "proposedEquityLevelRetirement": 0.4068666,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49350.6341876,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433855.4817377
+  },
+  "1011": {
+    "personaId": 1011,
+    "proposedEquityLevelInitial": 0.9054374,
+    "proposedEquityLevelRetirement": 0.4061396,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49591.5898058,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433819.968241
+  },
+  "1012": {
+    "personaId": 1012,
+    "proposedEquityLevelInitial": 0.9048075,
+    "proposedEquityLevelRetirement": 0.4058112,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 49933.200861,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 900,
+    "proposedWealthAtRetirement": 433603.3549853
+  },
+  "1013": {
+    "personaId": 1013,
+    "proposedEquityLevelInitial": 0.8879512,
+    "proposedEquityLevelRetirement": 0.3975414,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 60450.2228328,
+    "proposedTargetRetirementIncome": 60636.1792134,
+    "proposedTotalContributions": 6300,
+    "proposedWealthAtRetirement": 709485.5137356
+  },
+  "1014": {
+    "personaId": 1014,
+    "proposedEquityLevelInitial": 0.8880014,
+    "proposedEquityLevelRetirement": 0.415007,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 59491.6235286,
+    "proposedTargetRetirementIncome": 59572.0315376,
+    "proposedTotalContributions": 12600,
+    "proposedWealthAtRetirement": 814381.230896
+  },
+  "1015": {
+    "personaId": 1015,
+    "proposedEquityLevelInitial": 0.8863742,
+    "proposedEquityLevelRetirement": 0.4132371,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 59582.429783,
+    "proposedTargetRetirementIncome": 58862.5997538,
+    "proposedTotalContributions": 18000,
+    "proposedWealthAtRetirement": 936968.8909473
+  },
+  "1016": {
+    "personaId": 1016,
+    "proposedEquityLevelInitial": 0.8050489,
+    "proposedEquityLevelRetirement": 0.3459345,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 86471.7324802,
+    "proposedTargetRetirementIncome": 40487.1120115,
+    "proposedTotalContributions": 31500,
+    "proposedWealthAtRetirement": 1383972.8549492
+  },
+  "1017": {
+    "personaId": 1017,
+    "proposedEquityLevelInitial": 0.8760642,
+    "proposedEquityLevelRetirement": 0.4027371,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 73573.511018,
+    "proposedTargetRetirementIncome": 62764.4745648,
+    "proposedTotalContributions": 16200,
+    "proposedWealthAtRetirement": 1341019.5607487
+  },
+  "1018": {
+    "personaId": 1018,
+    "proposedEquityLevelInitial": 0.8917222,
+    "proposedEquityLevelRetirement": 0.3992982,
+    "proposedRetirementAge": 67,
+    "proposedRetirementIncome": 55878.6377791,
+    "proposedTargetRetirementIncome": 56993.2248483,
+    "proposedTotalContributions": 9000,
+    "proposedWealthAtRetirement": 643572.186583
+  },
+  "1019": {
+    "personaId": 1019,
+    "proposedEquityLevelInitial": 0.8823664,
+    "proposedEquityLevelRetirement": 0.3924446,
+    "proposedRetirementAge": 66,
+    "proposedRetirementIncome": 56031.9796765,
+    "proposedTargetRetirementIncome": 56203.9819888,
+    "proposedTotalContributions": 11700,
+    "proposedWealthAtRetirement": 585079.4526437
+  },
+  "1020": {
+    "personaId": 1020,
+    "proposedEquityLevelInitial": 0.8723372,
+    "proposedEquityLevelRetirement": 0.3861731,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 75083.85321,
+    "proposedTargetRetirementIncome": 67102.62777,
+    "proposedTotalContributions": 0,
+    "proposedWealthAtRetirement": 1024444.082
+  },
+  "1021": {
+    "personaId": 1021,
+    "proposedEquityLevelInitial": 0.8243149,
+    "proposedEquityLevelRetirement": 0.363413,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 100746.0752,
+    "proposedTargetRetirementIncome": 63058.8666,
+    "proposedTotalContributions": 5400,
+    "proposedWealthAtRetirement": 1596043.118
+  },
+  "1022": {
+    "personaId": 1022,
+    "proposedEquityLevelInitial": 0,
+    "proposedEquityLevelRetirement": 0,
+    "proposedRetirementAge": 65,
+    "proposedRetirementIncome": 61200.18877,
+    "proposedTargetRetirementIncome": 48184.44687,
+    "proposedTotalContributions": 18000,
+    "proposedWealthAtRetirement": 898661.7878
+  },
+}
